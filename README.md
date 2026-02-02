@@ -14,6 +14,12 @@ This project is a fullstack online ecommerce website. It provides a RESTful API 
 
 - **User Orders**: Users can retrieve their orders, view the order details, and track the payment status.
 
+## Architecture Diagram
+
+![MERN E-Commerce Architecture](assets/architecture.png)
+
+The application follows a layered MERN architecture with secure REST APIs,
+JWT-based authentication, MongoDB for persistence, and Razorpay for payments.
 
 ## Getting Started
 To use this API, follow the instructions below:
