@@ -18,7 +18,7 @@ This project is a fullstack online ecommerce website. It provides a RESTful API 
 ## Getting Started
 To use this API, follow the instructions below:
 
-- Clone the repository: `git clone https://github.com/ashishsaranshakya/mern-ecommerce.git`
+- Clone the repository: `git clone https://github.com/VeeraVasanti26/Mern-Ecommerce.git`
 - Install the server dependencies: `npm install`
 - Install client dependencies: `npm run client-install`
 - Change baseUrl in `client/src/App.js` to `http://localhost:3000`
